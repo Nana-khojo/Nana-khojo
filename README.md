@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nana-khojo
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python web development
-- 💞️ I’m looking to collaborate with simiar Team mate for us to code together
+- 💞️ I’m looking to collaborate with similar Team mate for us to code together
 - 📫 How to reach me ampomahbright37@gmail.com
 
 <!---
